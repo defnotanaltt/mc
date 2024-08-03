@@ -1,151 +1,51 @@
-[08:41:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08:42:00] [ServerMain/INFO]: Loaded 1174 recipes
-[08:42:00] [ServerMain/INFO]: Loaded 1271 advancements
-[08:42:00] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[08:42:00] [Server thread/INFO]: Loading properties
-[08:42:01] [Server thread/INFO]: This server is running Paper version git-Paper-464 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: e709245)
-[08:42:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[08:42:02] [Server thread/INFO]: Using 4 threads for Netty based IO
-[08:42:03] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
-    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
-    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[08:42:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[08:42:04] [Server thread/INFO]: Default game type: SURVIVAL
-[08:42:04] [Server thread/INFO]: Generating keypair
-[08:42:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:42:04] [Server thread/INFO]: Using epoll channel type
-[08:42:04] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[08:42:04] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[08:42:05] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.9.3
-[08:42:05] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
-[08:42:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[08:42:06] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[08:42:06] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[08:42:06] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[08:42:07] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v4.4.2
-[08:42:07] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.9.2
-[08:42:07] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
-[08:42:07] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.3-SNAPSHOT
-[08:42:08] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[08:42:08] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[08:42:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[08:42:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:42:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:42:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:42:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:42:08] [Server thread/INFO]: Preparing level "world"
-[08:42:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:42:09] [Server thread/INFO]: Time elapsed: 357 ms
-[08:42:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[08:42:09] [Server thread/INFO]: Time elapsed: 165 ms
-[08:42:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[08:42:09] [Server thread/INFO]: Time elapsed: 271 ms
-[08:42:09] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
-[08:42:10] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3/1.20.4 (765)
-[08:42:10] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.4.2
-[08:42:10] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
-[08:42:10] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
-[08:42:11] [Thread-7/WARN]: java.lang.ClassNotFoundException: net.md5.bungee.Core
-[08:42:11] [Thread-7/WARN]: 	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:445)
-[08:42:11] [Thread-7/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
-[08:42:11] [Thread-7/WARN]: 	at java.base/java.net.FactoryURLClassLoader.loadClass(URLClassLoader.java:872)
-[08:42:11] [Thread-7/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
-[08:42:11] [Thread-7/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
-[08:42:11] [Thread-7/WARN]: 	at java.base/java.lang.Class.forName(Class.java:534)
-[08:42:11] [Thread-7/WARN]: 	at java.base/java.lang.Class.forName(Class.java:513)
-[08:42:11] [Thread-7/WARN]: 	at OpenInv.jar//net.md_5.bungee.api.chat.TranslatableComponentDeserializer$1.run(TranslatableComponentDeserializer.java:35)
-[08:42:11] [Thread-7/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[08:42:11] [Thread-9/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
-[08:42:11] [Thread-9/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
-[08:42:11] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.3-SNAPSHOT
-[08:42:12] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[08:42:12] [Server thread/INFO]: [Geyser-Spigot] 
-[08:42:12] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.3-SNAPSHOT (git-master-29bd896)
-[08:42:12] [Server thread/INFO]: [Geyser-Spigot] 
-[08:42:12] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[08:42:13] [Thread-9/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: amount-hose.joinmc.link
-[08:42:13] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
-[08:42:13] [Thread-9/INFO]: playit.gg: tunnel setup
-[08:42:13] [Thread-9/INFO]: playit.gg: amount-hose.joinmc.link
-[08:42:13] [Thread-9/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
-[08:42:14] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
-[08:42:15] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
-[08:42:24] [epollEventLoopGroup-4-2/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
-[08:42:24] [Server thread/INFO]: [Geyser-Spigot] Done (12.262s)! Run /geyser help for help!
-[08:42:24] [Server thread/INFO]: Running delayed init tasks
-[08:42:24] [Server thread/INFO]: Done (23.510s)! For help, type "help"
-[08:42:24] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
-[08:42:24] [Server thread/INFO]: Timings Reset
-[08:43:03] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.143.180:23779, peerAddr=122.173.29.70:17830, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -47, 25, -113, -76, 92, -29, 122, -83, 29, 70, 69, -90, 96, -74, -10, -93, -85, 8, 102, 15, -71, -105, 0, 0, 0, 0, 0, 7, -70, 55, 0, 0, 0, 0, 0, 48, 19, -71, 22, -93, -85, 8, 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 55, -72, 35, 60, 4, 25, -119, 79, 87, -96, -1, -7, 102, 87, -76, 75], tunnelServerId=1, dataCenterId=33}
-[08:43:03] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
-[08:43:03] [Thread-9/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43784 to claim client
-[08:43:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
-[08:43:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
-[08:43:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
-[08:43:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
-[08:43:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
-[08:43:03] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
-[08:43:03] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
-[08:43:03] [User Authenticator #0/INFO]: UUID of player Admin is 40c73079-eb42-3445-9f3c-c31a5964a44a
-[08:43:04] [Server thread/INFO]: Admin joined the game
-[08:43:04] [Server thread/INFO]: Admin[/127.0.0.1:58122] logged in with entity id 235 at ([world]4.5, 63.0, 2.5)
-[08:44:27] [Server thread/INFO]: Admin issued server command: /kill
-[08:44:27] [Server thread/INFO]: Admin was killed
-[08:44:27] [Server thread/INFO]: [Admin: Killed Admin]
-[08:44:51] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
-[08:44:51] [Server thread/INFO]: Admin lost connection: Disconnected
-[08:44:51] [Server thread/INFO]: Admin left the game
-[08:45:02] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.143.180:23779, peerAddr=122.173.29.70:32643, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -47, 25, -113, -76, 92, -29, 122, -83, 29, 70, 127, -125, -27, 31, 8, -51, -85, 8, 102, 15, -70, 14, 0, 0, 0, 0, 0, 7, -70, 55, 0, 0, 0, 0, 0, 48, 19, -71, -118, -51, -85, 8, 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 23, 119, -77, -29, 121, 19, 61, 117, -115, 122, -4, -44, -19, -49, -9, -9], tunnelServerId=1, dataCenterId=33}
-[08:45:02] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
-[08:45:02] [Thread-9/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43784 to claim client
-[08:45:02] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
-[08:45:02] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
-[08:45:02] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
-[08:45:02] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
-[08:45:02] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
-[08:45:02] [nioEventLoopGroup-2-3/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
-[08:45:02] [nioEventLoopGroup-2-4/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
-[08:45:02] [User Authenticator #1/INFO]: UUID of player ufityc57rxo5ed7 is d29416ac-2713-3a1d-88bb-f7e858a1d11e
-[08:45:03] [Server thread/INFO]: ufityc57rxo5ed7 joined the game
-[08:45:03] [Server thread/INFO]: ufityc57rxo5ed7[/127.0.0.1:50644] logged in with entity id 500 at ([world]-7.5, 72.0, 6.5)
-[08:45:13] [Async Chat Thread - #1/INFO]: [Not Secure] <ufityc57rxo5ed7> >
-[08:45:26] [Async Chat Thread - #1/INFO]: [Not Secure] <ufityc57rxo5ed7> ./login
-[08:45:31] [nioEventLoopGroup-2-3/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
-[08:45:31] [Server thread/INFO]: ufityc57rxo5ed7 lost connection: Disconnected
-[08:45:31] [Server thread/INFO]: ufityc57rxo5ed7 left the game
-[08:46:17] [Thread-9/INFO]: [gg.playit.control.ChannelSetup] send keep alive
-[08:46:24] [Server thread/INFO]: Stopping the server
-[08:46:24] [Server thread/INFO]: Stopping server
-[08:46:24] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.2.3-SNAPSHOT
-[08:46:24] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[08:46:24] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[08:46:24] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
-[08:46:24] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
-[08:46:24] [Server thread/INFO]: [OpenInv] Disabling OpenInv v4.4.2
-[08:46:24] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
-[08:46:24] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
-[08:46:24] [Server thread/INFO]: Saving players
-[08:46:24] [Server thread/INFO]: Saving worlds
-[08:46:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:46:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[08:46:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[08:46:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[08:46:27] [Thread-9/INFO]: [gg.playit.minecraft.PlayitManager] control channel shutdown
-[08:46:27] [Server thread/INFO]: [ChunkHolderManager] Saved 675 block chunks, 675 entity chunks, 1 poi chunks in world 'world' in 2.89s
-[08:46:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:46:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[08:46:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[08:46:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[08:46:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[08:46:28] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0.79s
-[08:46:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:46:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[08:46:28] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[08:46:28] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[08:46:28] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[08:46:29] [Server thread/INFO]: [ChunkHolderManager] Saved 529 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0.33s
-[08:46:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:46:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[08:46:29] [Server thread/INFO]: Flushing Chunk IO
-[08:46:29] [Server thread/INFO]: Closing Thread Pool
-[08:46:29] [Server thread/INFO]: Closing Server
+[10:54:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:54:15] [ServerMain/INFO]: No existing world data, creating new world
+[10:54:16] [ServerMain/INFO]: Loaded 1290 recipes
+[10:54:17] [ServerMain/INFO]: Loaded 1399 advancements
+[10:54:17] [Server thread/INFO]: Starting minecraft server version 1.21
+[10:54:17] [Server thread/INFO]: Loading properties
+[10:54:17] [Server thread/INFO]: Default game type: SURVIVAL
+[10:54:17] [Server thread/INFO]: Generating keypair
+[10:54:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:54:18] [Server thread/INFO]: Using epoll channel type
+[10:54:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:54:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:54:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:54:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:54:18] [Server thread/INFO]: Preparing level "world"
+[10:54:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:54:30] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[10:54:31] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[10:54:31] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[10:54:31] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[10:54:31] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[10:54:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[10:54:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[10:54:33] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[10:54:34] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[10:54:34] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[10:54:34] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[10:54:35] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[10:54:36] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[10:54:36] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[10:54:36] [Worker-Main-2/INFO]: Preparing spawn area: 40%
+[10:54:38] [Worker-Main-2/INFO]: Preparing spawn area: 40%
+[10:54:38] [Worker-Main-2/INFO]: Preparing spawn area: 40%
+[10:54:38] [Worker-Main-2/INFO]: Preparing spawn area: 40%
+[10:54:38] [Worker-Main-2/INFO]: Preparing spawn area: 40%
+[10:54:39] [Worker-Main-2/INFO]: Preparing spawn area: 40%
+[10:54:39] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[10:54:40] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[10:54:40] [Server thread/INFO]: Time elapsed: 11053 ms
+[10:54:40] [Server thread/INFO]: Done (22.843s)! For help, type "help"
+[10:55:10] [Server thread/INFO]: Stopping the server
+[10:55:10] [Server thread/INFO]: Stopping server
+[10:55:10] [Server thread/INFO]: Saving players
+[10:55:10] [Server thread/INFO]: Saving worlds
+[10:55:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:55:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:55:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:55:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:55:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:55:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:55:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
