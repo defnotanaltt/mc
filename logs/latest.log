@@ -1,152 +1,250 @@
-[18:43:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:44:02] [ServerMain/INFO]: Loaded 1290 recipes
-[18:44:02] [ServerMain/INFO]: Loaded 1399 advancements
-[18:44:03] [Server thread/INFO]: Starting minecraft server version 1.21
-[18:44:03] [Server thread/INFO]: Loading properties
-[18:44:03] [Server thread/INFO]: Default game type: SURVIVAL
-[18:44:03] [Server thread/INFO]: Generating keypair
-[18:44:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:44:03] [Server thread/INFO]: Using epoll channel type
-[18:44:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:44:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:44:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:44:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:44:03] [Server thread/INFO]: Preparing level "world"
-[18:44:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:44:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:44:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:44:14] [Server thread/INFO]: Time elapsed: 948 ms
-[18:44:14] [Server thread/INFO]: Done (10.245s)! For help, type "help"
-[18:44:18] [Server thread/INFO]: xAstrii[/127.123.106.221:32955] logged in with entity id 13 at (1951.563653289832, 4.546903194119789, 1273.327475653033)
-[18:44:18] [Server thread/INFO]: xAstrii joined the game
-[18:44:31] [Server thread/INFO]: ValteriIts_James[/127.138.185.95:41367] logged in with entity id 275 at (1948.522189318085, 8.0, 1260.3396200736643)
-[18:44:31] [Server thread/INFO]: ValteriIts_James joined the game
-[18:44:34] [Server thread/INFO]: [Not Secure] <xAstrii> bro nah
-[18:44:37] [Server thread/INFO]: [Not Secure] <xAstrii> they took my diamonds away
-[18:44:57] [Server thread/INFO]: [Not Secure] <ValteriIts_James> lets get armor first
-[18:45:09] [Server thread/INFO]: [Not Secure] <xAstrii> ill go loot the mineshaft
-[18:45:27] [Server thread/INFO]: ValteriIts_James has made the advancement [Take Aim]
-[18:45:27] [Server thread/INFO]: xAstrii has made the advancement [Diamonds!]
-[18:46:09] [Server thread/INFO]: [Not Secure] <xAstrii> actually
-[18:46:11] [Server thread/INFO]: [Not Secure] <xAstrii> u can loot it
-[18:46:15] [Server thread/INFO]: [Not Secure] <ValteriIts_James> why
-[18:46:18] [Server thread/INFO]: [Not Secure] <xAstrii> i fell down
-[18:46:20] [Server thread/INFO]: [Not Secure] <xAstrii> but i clutched
-[18:46:23] [Server thread/INFO]: [Not Secure] <ValteriIts_James> hell nah
-[18:46:28] [Server thread/INFO]: [Not Secure] <ValteriIts_James> can u come back
-[18:46:38] [Server thread/INFO]: [Not Secure] <xAstrii> no
-[18:46:40] [Server thread/INFO]: [Not Secure] <xAstrii> i see lots of diamonds
-[18:47:37] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i got full iron
-[18:49:28] [Server thread/INFO]: [Not Secure] <ValteriIts_James> dont lose all the diamonds
-[18:49:31] [Server thread/INFO]: [Not Secure] <xAstrii> ik
-[18:49:56] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i should have enough iron for your armor too
-[18:50:02] [Server thread/INFO]: [Not Secure] <xAstrii> ez
-[18:52:44] [Server thread/INFO]: [Not Secure] <ValteriIts_James> where did u drop
-[18:52:51] [Server thread/INFO]: [Not Secure] <xAstrii> at the entrance xd
-[18:53:03] [Server thread/INFO]: [Not Secure] <xAstrii> u gotta loot it al
-[18:53:13] [Server thread/INFO]: [Not Secure] <xAstrii> cuz i have 26 diamonsd
-[18:53:36] [Server thread/INFO]: ValteriIts_James has made the advancement [Diamonds!]
-[18:53:58] [Server thread/INFO]: [Not Secure] <ValteriIts_James> nametag
-[18:54:12] [Server thread/INFO]: [Not Secure] <xAstrii> ez
-[18:54:15] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i see u
-[18:54:23] [Server thread/INFO]: [Not Secure] <xAstrii> bro this cave literally has more diamonds than iron
-[18:54:28] [Server thread/INFO]: [Not Secure] <ValteriIts_James> ill give u armor
-[18:54:32] [Server thread/INFO]: [Not Secure] <ValteriIts_James> wait for me
-[18:55:02] [Server thread/INFO]: [Not Secure] <xAstrii> yo
-[18:55:06] [Server thread/INFO]: [Not Secure] <xAstrii> lets get diamond pickaxes now
-[18:55:08] [Server thread/INFO]: [Not Secure] <xAstrii> to get obsidian
-[18:55:20] [Server thread/INFO]: [Not Secure] <ValteriIts_James> make a hole
-[18:56:25] [Server thread/INFO]: [Not Secure] <ValteriIts_James> come to the box
-[18:56:27] [Server thread/INFO]: [Not Secure] <xAstrii> sec
-[18:56:50] [Server thread/INFO]: [Not Secure] <xAstrii> you got wood?
-[18:57:01] [Server thread/INFO]: [Not Secure] <xAstrii> thx
-[18:57:02] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i got sticks
-[18:57:05] [Server thread/INFO]: [Not Secure] <xAstrii> ok
-[18:57:09] [Server thread/INFO]: [Not Secure] <xAstrii> make the diamond pickaxe
-[18:57:12] [Server thread/INFO]: [Not Secure] <xAstrii> and get obs
-[18:57:19] [Server thread/INFO]: [Not Secure] <xAstrii> you get the obby
-[18:57:24] [Server thread/INFO]: [Not Secure] <xAstrii> ill go hunt for more diamonds
-[18:57:24] [Server thread/INFO]: [Not Secure] <xAstrii> also
-[18:57:29] [Server thread/INFO]: [Not Secure] <xAstrii> can i have one more iron picakxe
-[18:57:48] [Server thread/INFO]: [Not Secure] <xAstrii> thx
-[19:00:33] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i got 5
-[19:01:32] [Server thread/INFO]: [Not Secure] <ValteriIts_James> 9 obsidian
-[19:01:36] [Server thread/INFO]: [Not Secure] <ValteriIts_James> should be enough
-[19:02:15] [Server thread/INFO]: Villager cmk['Villager'/4351, l='ServerLevel[world]', x=1196.72, y=78.00, z=1459.63] died, message: 'Villager suffocated in a wall'
-[19:02:53] [Server thread/INFO]: Villager cmk['Villager'/4423, l='ServerLevel[world]', x=1179.72, y=65.00, z=1459.63] died, message: 'Villager suffocated in a wall'
-[19:03:52] [Server thread/INFO]: [Not Secure] <xAstrii> i got a whole stack of diamonds
-[19:03:57] [Server thread/INFO]: [Not Secure] <xAstrii> get like 10 obsidian better
-[19:03:57] [Server thread/INFO]: [Not Secure] <ValteriIts_James> theres a massive wall of lava
-[19:04:13] [Server thread/INFO]: [Not Secure] <xAstrii> i see ti
-[19:04:16] [Server thread/INFO]: [Not Secure] <xAstrii> it
-[19:04:17] [Server thread/INFO]: ValteriIts_James has made the advancement [Hot Stuff]
-[19:04:31] [Server thread/INFO]: [Not Secure] <ValteriIts_James> can u see me
-[19:04:34] [Server thread/INFO]: [Not Secure] <xAstrii> yes
-[19:04:36] [Server thread/INFO]: [Not Secure] <ValteriIts_James> oh
-[19:04:41] [Server thread/INFO]: [Not Secure] <xAstrii> lets go to the base maybe now
-[19:05:32] [Server thread/INFO]: [Not Secure] <xAstrii> fried spiders
-[19:05:35] [Server thread/INFO]: [Not Secure] <ValteriIts_James> ez
-[19:05:39] [Server thread/INFO]: [Not Secure] <xAstrii> lets go to the base now
-[19:05:55] [Server thread/INFO]: [Not Secure] <xAstrii> wait
-[19:05:57] [Server thread/INFO]: [Not Secure] <xAstrii> i see diamonds
-[19:07:41] [Server thread/INFO]: [Not Secure] <ValteriIts_James> my axe died
-[19:08:06] [Server thread/INFO]: [Not Secure] <xAstrii> zombie villager
-[19:08:18] [Server thread/INFO]: [Not Secure] <ValteriIts_James> ur died ?
-[19:08:21] [Server thread/INFO]: [Not Secure] <xAstrii> no
-[19:08:26] [Server thread/INFO]: [Not Secure] <xAstrii> im just playing with them
-[19:08:29] [Server thread/INFO]: [Not Secure] <xAstrii> lets go up
-[19:08:33] [Server thread/INFO]: [Not Secure] <xAstrii> come
-[19:08:36] [Server thread/INFO]: [Not Secure] <xAstrii> this way probably
-[19:08:38] [Server thread/INFO]: [Not Secure] <xAstrii> oh
-[19:09:33] [Server thread/INFO]: [Not Secure] <xAstrii> this cave was awesome nglk
-[19:10:41] [Server thread/INFO]: [Not Secure] <xAstrii> sleep
-[19:11:11] [Server thread/INFO]: [Not Secure] <xAstrii> yo
-[19:11:15] [Server thread/INFO]: [Not Secure] <ValteriIts_James> what
-[19:11:16] [Server thread/INFO]: [Not Secure] <xAstrii> come
-[19:11:31] [Server thread/INFO]: [Not Secure] <xAstrii> rain
-[19:11:45] [Server thread/INFO]: [Not Secure] <xAstrii> its raining diamonds fr
-[19:11:50] [Server thread/INFO]: [Not Secure] <ValteriIts_James> alr
-[19:12:06] [Server thread/INFO]: [Not Secure] <xAstrii> lets finish the portal
-[19:12:06] [Server thread/INFO]: [Not Secure] <ValteriIts_James> do we have a book
-[19:12:09] [Server thread/INFO]: [Not Secure] <xAstrii> idk
-[19:12:24] [Server thread/INFO]: [Not Secure] <xAstrii> we could get diamond sets now
-[19:12:28] [Server thread/INFO]: [Not Secure] <xAstrii> but lets get these sets from the villagers
-[19:12:32] [Server thread/INFO]: [Not Secure] <xAstrii> will be better that way
-[19:12:34] [Server thread/INFO]: [Not Secure] <ValteriIts_James> uh
-[19:12:36] [Server thread/INFO]: [Not Secure] <xAstrii> bro u gotta breed the villagers
-[19:12:40] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i forgot abt the enchanting table
-[19:12:47] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we only have 5 obsidian
-[19:12:52] [Server thread/INFO]: [Not Secure] <xAstrii> told u
-[19:12:58] [Server thread/INFO]: [Not Secure] <xAstrii> to get more
-[19:13:30] [Server thread/INFO]: [Not Secure] <ValteriIts_James> turn on the string farm
-[19:13:32] [Server thread/INFO]: [Not Secure] <xAstrii> breed the villagers dumbass
-[19:13:42] [Server thread/INFO]: [Not Secure] <xAstrii> we stopped caring about the villagers bro
-[19:13:46] [Server thread/INFO]: [Not Secure] <ValteriIts_James> whets the bread
-[19:13:52] [Server thread/INFO]: [Not Secure] <xAstrii> idk
-[19:13:57] [Server thread/INFO]: [Not Secure] <xAstrii> we have wheat in the chest anyways
-[19:14:24] [Server thread/INFO]: [Not Secure] <xAstrii> broskis are gonna do it every 1 hour
-[19:14:32] [Server thread/INFO]: [Not Secure] <ValteriIts_James> lets transport
-[19:15:00] [Server thread/INFO]: [Not Secure] <xAstrii> ye
-[19:15:05] [Server thread/INFO]: [Not Secure] <xAstrii> but we gotta get rid of that dumb golem first
-[19:15:21] [Server thread/INFO]: [Not Secure] <ValteriIts_James> bozo
-[19:15:21] [Server thread/INFO]: [Not Secure] <xAstrii> will u be able to transport alone
-[19:15:24] [Server thread/INFO]: [Not Secure] <xAstrii> i gotta go take a bath rn
-[19:15:26] [Server thread/INFO]: [Not Secure] <ValteriIts_James> maybe
-[19:15:31] [Server thread/INFO]: [Not Secure] <xAstrii> have my water for help
-[19:15:35] [Server thread/INFO]: [Not Secure] <xAstrii> ill go take a bath
-[19:15:39] [Server thread/INFO]: [Not Secure] <xAstrii> ill be back in around 30 minutes i think
-[19:15:40] [Server thread/INFO]: xAstrii lost connection: Disconnected
-[19:15:40] [Server thread/INFO]: xAstrii left the game
-[19:25:04] [Server thread/INFO]: ValteriIts_James lost connection: Disconnected
-[19:25:04] [Server thread/INFO]: ValteriIts_James left the game
-[19:25:15] [Server thread/INFO]: Stopping the server
-[19:25:15] [Server thread/INFO]: Stopping server
-[19:25:15] [Server thread/INFO]: Saving players
-[19:25:15] [Server thread/INFO]: Saving worlds
-[19:25:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:25:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:25:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:25:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:25:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:25:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:25:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:23:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:23:13] [ServerMain/INFO]: Loaded 1290 recipes
+[20:23:14] [ServerMain/INFO]: Loaded 1399 advancements
+[20:23:14] [Server thread/INFO]: Starting minecraft server version 1.21
+[20:23:14] [Server thread/INFO]: Loading properties
+[20:23:14] [Server thread/INFO]: Default game type: SURVIVAL
+[20:23:14] [Server thread/INFO]: Generating keypair
+[20:23:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:23:15] [Server thread/INFO]: Using epoll channel type
+[20:23:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:23:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:23:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:23:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:23:15] [Server thread/INFO]: Preparing level "world"
+[20:23:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:23:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:23:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:23:24] [Server thread/INFO]: Time elapsed: 983 ms
+[20:23:24] [Server thread/INFO]: Done (8.688s)! For help, type "help"
+[20:23:32] [Server thread/INFO]: ValteriIts_James[/127.138.185.95:46499] logged in with entity id 13 at (1983.9560453920158, 72.0, 1501.928148478998)
+[20:23:32] [Server thread/INFO]: ValteriIts_James joined the game
+[20:26:19] [Server thread/INFO]: xAstrii[/127.123.106.221:57011] logged in with entity id 1021 at (1986.3472807823462, 72.0, 1506.237500011921)
+[20:26:19] [Server thread/INFO]: xAstrii joined the game
+[20:28:08] [Server thread/INFO]: [Not Secure] <xAstrii> back
+[20:28:17] [Server thread/INFO]: [Not Secure] <xAstrii> babies
+[20:28:25] [Server thread/INFO]: [Not Secure] <ValteriIts_James> so
+[20:28:33] [Server thread/INFO]: [Not Secure] <xAstrii> so
+[20:28:36] [Server thread/INFO]: [Not Secure] <ValteriIts_James> good iron sword or cheap one
+[20:28:44] [Server thread/INFO]: [Not Secure] <ValteriIts_James> so we can get the diamond ones faster
+[20:28:49] [Server thread/INFO]: [Not Secure] <xAstrii> we need diamond ones
+[20:30:22] [Server thread/INFO]: [Not Secure] <xAstrii> yo
+[20:30:26] [Server thread/INFO]: [Not Secure] <xAstrii> when do we make the cow farm
+[20:30:26] [Server thread/INFO]: [Not Secure] <ValteriIts_James> what
+[20:30:39] [Server thread/INFO]: [Not Secure] <ValteriIts_James> u can start it
+[20:30:43] [Server thread/INFO]: [Not Secure] <ValteriIts_James> ill trade
+[20:30:48] [Server thread/INFO]: [Not Secure] <xAstrii> ok i guess
+[20:30:57] [Server thread/INFO]: [Not Secure] <ValteriIts_James> actually
+[20:31:01] [Server thread/INFO]: [Not Secure] <ValteriIts_James> what abt a carrot farm
+[20:31:19] [Server thread/INFO]: [Not Secure] <xAstrii> we can make it in the same row as the cow farm
+[20:31:32] [Server thread/INFO]: [Not Secure] <ValteriIts_James> aight
+[20:31:44] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we got unlimited iron axes
+[20:31:54] [Server thread/INFO]: [Not Secure] <xAstrii> ez
+[20:32:11] [Server thread/INFO]: [Not Secure] <xAstrii> actually i gotta go get wood
+[20:40:54] [Server thread/INFO]: Set ValteriIts_James's game mode to Spectator Mode
+[20:41:17] [Server thread/INFO]: Made ValteriIts_James a server operator
+[20:41:20] [Server thread/INFO]: [ValteriIts_James: Set own game mode to Survival Mode]
+[20:42:04] [Server thread/INFO]: [Not Secure] <ValteriIts_James> sleep
+[20:42:19] [Server thread/INFO]: [Not Secure] <xAstrii> i got 2 stacks of wood
+[20:43:04] [Server thread/INFO]: [Not Secure] <ValteriIts_James> new villager
+[20:43:05] [Server thread/INFO]: [Not Secure] <xAstrii> bro where did this cat go
+[20:44:33] [Server thread/INFO]: [Not Secure] <xAstrii> bro this dumb cat vanished
+[20:44:35] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we need more read
+[20:44:42] [Server thread/INFO]: [Not Secure] <ValteriIts_James> and transport villagers
+[20:44:48] [Server thread/INFO]: [Not Secure] <xAstrii> wdym read
+[20:44:51] [Server thread/INFO]: [Not Secure] <ValteriIts_James> bread
+[20:45:09] [Server thread/INFO]: [Not Secure] <xAstrii> theres much wheat
+[20:45:23] [Server thread/INFO]: [Not Secure] <ValteriIts_James> come outside
+[20:45:27] [Server thread/INFO]: [Not Secure] <xAstrii> sec
+[20:45:56] [Server thread/INFO]: [Not Secure] <xAstrii> what is bro doing
+[20:46:01] [Server thread/INFO]: [Not Secure] <ValteriIts_James> lol
+[20:46:05] [Server thread/INFO]: [Not Secure] <ValteriIts_James> mega gravel tower
+[20:46:49] [Server thread/INFO]: [Not Secure] <ValteriIts_James> also
+[20:46:54] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i can see a lot from here
+[20:47:00] [Server thread/INFO]: [Not Secure] <ValteriIts_James> theres a forest
+[20:47:06] [Server thread/INFO]: [Not Secure] <ValteriIts_James> east
+[20:47:22] [Server thread/INFO]: [Not Secure] <ValteriIts_James> and thats it
+[20:47:27] [Server thread/INFO]: [Not Secure] <xAstrii> lol
+[20:47:48] [Server thread/INFO]: [Not Secure] <ValteriIts_James> actually
+[20:47:51] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i wasnt on 32
+[20:47:56] [Server thread/INFO]: [Not Secure] <ValteriIts_James> chunks
+[20:48:10] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i see another cave
+[20:48:21] [Server thread/INFO]: [Not Secure] <xAstrii> awesome
+[20:48:24] [Server thread/INFO]: [Not Secure] <xAstrii> brb
+[20:51:25] [Server thread/INFO]: [Not Secure] <xAstrii> back
+[20:55:52] [Server thread/INFO]: [Not Secure] <ValteriIts_James> actually decent ax3
+[20:55:55] [Server thread/INFO]: [Not Secure] <ValteriIts_James> come check
+[20:56:01] [Server thread/INFO]: [Not Secure] <xAstrii> sure
+[20:56:10] [Server thread/INFO]: [Not Secure] <xAstrii> show
+[20:56:15] [Server thread/INFO]: [Not Secure] <ValteriIts_James> check
+[20:56:20] [Server thread/INFO]: [Not Secure] <xAstrii> for mining wood pretty decent
+[20:56:24] [Server thread/INFO]: [Not Secure] <xAstrii> get me one plz
+[20:56:33] [Server thread/INFO]: [Not Secure] <ValteriIts_James> poor bozo
+[20:56:36] [Server thread/INFO]: [Not Secure] <xAstrii> shut up
+[20:56:43] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i got the monopoly
+[20:56:46] [Server thread/INFO]: [Not Secure] <xAstrii> im making a cow farm so your fat ass has food
+[20:57:01] [Server thread/INFO]: [Not Secure] <xAstrii> also
+[20:57:07] [Server thread/INFO]: [Not Secure] <xAstrii> do you still have any fire aspect sword?
+[20:57:14] [Server thread/INFO]: [Not Secure] <ValteriIts_James> check the chest
+[20:57:34] [Server thread/INFO]: [Not Secure] <xAstrii> which chest
+[20:57:46] [Server thread/INFO]: [Not Secure] <ValteriIts_James> come
+[20:57:51] [Server thread/INFO]: [Not Secure] <xAstrii> lag
+[20:58:07] [Server thread/INFO]: [Not Secure] <xAstrii> my internet nearly did kaboom
+[20:58:23] [Server thread/INFO]: [Not Secure] <xAstrii> where are the lanterns
+[20:58:40] [Server thread/INFO]: [Not Secure] <xAstrii> kfc time
+[20:59:29] [Server thread/INFO]: [Not Secure] <ValteriIts_James> alr
+[20:59:31] [Server thread/INFO]: [Not Secure] <ValteriIts_James> check it
+[20:59:38] [Server thread/INFO]: [Not Secure] <xAstrii> ez
+[20:59:39] [Server thread/INFO]: [Not Secure] <ValteriIts_James> nearly nothing left
+[20:59:47] [Server thread/INFO]: [Not Secure] <xAstrii> fr
+[20:59:52] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we need to make the sugarcane one too
+[20:59:56] [Server thread/INFO]: [Not Secure] <xAstrii> yep
+[21:00:00] [Server thread/INFO]: [Not Secure] <xAstrii> so this row and one more row then
+[21:00:05] [Server thread/INFO]: ValteriIts_James has made the advancement [The Parrots and the Bats]
+[21:00:06] [Server thread/INFO]: [Not Secure] <xAstrii> we can have sheep also
+[21:00:10] [Server thread/INFO]: [Not Secure] <xAstrii> sheep will be useful
+[21:00:12] [Server thread/INFO]: [Not Secure] <ValteriIts_James> nah
+[21:00:12] [Server thread/INFO]: [Not Secure] <xAstrii> breed villagers
+[21:00:15] [Server thread/INFO]: [Not Secure] <xAstrii> ye
+[21:00:19] [Server thread/INFO]: [Not Secure] <xAstrii> we need wool to the ancient cities
+[21:00:26] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we have string
+[21:00:38] [Server thread/INFO]: [Not Secure] <xAstrii> oh ye
+[21:01:56] [Server thread/INFO]: [Not Secure] <xAstrii> yo
+[21:01:58] [Server thread/INFO]: [Not Secure] <xAstrii> come help me
+[21:02:01] [Server thread/INFO]: [Not Secure] <xAstrii> with the cow farm chapter
+[21:02:17] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i was breeding
+[21:02:18] [Server thread/INFO]: [Not Secure] <xAstrii> do the roof and floor
+[21:02:22] [Server thread/INFO]: [Not Secure] <xAstrii> dirt floor ofc
+[21:02:32] [Server thread/INFO]: [Not Secure] <ValteriIts_James> get grass
+[21:03:24] [Server thread/INFO]: [Not Secure] <xAstrii> the axe works with grass
+[21:03:27] [Server thread/INFO]: [Not Secure] <ValteriIts_James> oh no
+[21:03:31] [Server thread/INFO]: [Not Secure] <ValteriIts_James> come here
+[21:03:41] [Server thread/INFO]: [Not Secure] <xAstrii> get the axe
+[21:03:42] [Server thread/INFO]: [Not Secure] <ValteriIts_James> it will work
+[21:03:43] [Server thread/INFO]: [Not Secure] <ValteriIts_James> wait
+[21:03:44] [Server thread/INFO]: [Not Secure] <ValteriIts_James> dont
+[21:03:52] [Server thread/INFO]: [Not Secure] <ValteriIts_James> lets just wait for it to grow
+[21:04:17] [Server thread/INFO]: [Not Secure] <ValteriIts_James> no good conditions
+[21:04:24] [Server thread/INFO]: [Not Secure] <xAstrii> some water around the tree
+[21:04:43] [Server thread/INFO]: [Not Secure] <ValteriIts_James> shovel?
+[21:04:58] [Server thread/INFO]: [Not Secure] <xAstrii> bro i dont even have a pickaxe
+[21:05:02] [Server thread/INFO]: [Not Secure] <xAstrii> and ur yapping about a shovel
+[21:05:58] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we need dripstone
+[21:06:01] [Server thread/INFO]: [Not Secure] <xAstrii> yo
+[21:06:02] [Server thread/INFO]: [Not Secure] <xAstrii> come
+[21:06:06] [Server thread/INFO]: [Not Secure] <xAstrii> lets finish the cow farm first
+[21:06:15] [Server thread/INFO]: [Not Secure] <xAstrii> ok nevermind
+[21:06:17] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i was gonna get a diamond pick
+[21:06:19] [Server thread/INFO]: [Not Secure] <xAstrii> ok
+[21:06:20] [Server thread/INFO]: [Not Secure] <xAstrii> go
+[21:07:10] [Server thread/INFO]: [Not Secure] <xAstrii> i need some pickaxe bro
+[21:07:20] [Server thread/INFO]: [Not Secure] <ValteriIts_James> oh
+[21:07:23] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i got a sword
+[21:07:24] [Server thread/INFO]: [Not Secure] <ValteriIts_James> instead
+[21:07:27] [Server thread/INFO]: [Not Secure] <xAstrii> bruh
+[21:08:44] [Server thread/INFO]: [Not Secure] <xAstrii> nahh
+[21:08:47] [Server thread/INFO]: [Not Secure] <xAstrii> this cat wants to be kfc bro
+[21:08:47] [Server thread/INFO]: [Not Secure] <ValteriIts_James> get the pick
+[21:08:51] [Server thread/INFO]: [Not Secure] <xAstrii> bro jumped to the pigs
+[21:08:53] [Server thread/INFO]: xAstrii has made the advancement [Best Friends Forever]
+[21:09:04] [Server thread/INFO]: [Not Secure] <ValteriIts_James> pick
+[21:09:09] [Server thread/INFO]: [Not Secure] <ValteriIts_James> imma burn it
+[21:09:13] [Server thread/INFO]: [Not Secure] <xAstrii> thx
+[21:09:52] [Server thread/INFO]: ValteriIts_James was slain by Iron Golem
+[21:09:56] [Server thread/INFO]: [Not Secure] <xAstrii> lol
+[21:10:03] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i got stuck
+[21:10:10] [Server thread/INFO]: [Not Secure] <xAstrii> excuses smh
+[21:10:16] [Server thread/INFO]: [Not Secure] <ValteriIts_James> actually
+[21:11:40] [Server thread/INFO]: [Not Secure] <ValteriIts_James> lets move villagers
+[21:11:44] [Server thread/INFO]: [Not Secure] <xAstrii> sure
+[21:11:44] [Server thread/INFO]: [Not Secure] <xAstrii> sec
+[21:12:17] [Server thread/INFO]: [Not Secure] <xAstrii> xddd
+[21:12:51] [Server thread/INFO]: [Not Secure] <xAstrii> xdddd
+[21:13:33] [Server thread/INFO]: [Not Secure] <xAstrii> lmaoo
+[21:13:38] [Server thread/INFO]: [Not Secure] <xAstrii> no way
+[21:13:51] [Server thread/INFO]: [Not Secure] <ValteriIts_James> armorer
+[21:13:52] [Server thread/INFO]: [Not Secure] <xAstrii> lets get most of these outta the breeding room bro
+[21:13:58] [Server thread/INFO]: [Not Secure] <xAstrii> lets just keep 2 of them in here
+[21:13:58] [Server thread/INFO]: [Not Secure] <ValteriIts_James> ik
+[21:14:33] [Server thread/INFO]: [Not Secure] <xAstrii> sucker
+[21:14:40] [Server thread/INFO]: [Not Secure] <ValteriIts_James> 2 more
+[21:15:03] [Server thread/INFO]: [Not Secure] <ValteriIts_James> dumb kid
+[21:15:05] [Server thread/INFO]: [Not Secure] <xAstrii> lol
+[21:15:33] [Server thread/INFO]: [Not Secure] <ValteriIts_James> librarian
+[21:15:36] [Server thread/INFO]: [Not Secure] <xAstrii> ez
+[21:15:44] [Server thread/INFO]: [Not Secure] <xAstrii> we will get these juicy enchants
+[21:16:24] [Server thread/INFO]: [Not Secure] <xAstrii> bro was immune to the water
+[21:16:32] [Server thread/INFO]: [Not Secure] <ValteriIts_James> imma get water back
+[21:16:47] [Server thread/INFO]: [Not Secure] <xAstrii> u couldve just gotten it from the farm
+[21:16:49] [Server thread/INFO]: [Not Secure] <xAstrii> farms
+[21:17:03] [Server thread/INFO]: [Not Secure] <xAstrii> this
+[21:17:36] [Server thread/WARN]: Spruce Boat (vehicle of ValteriIts_James) moved wrongly! 0.34526699063326305
+[21:17:36] [Server thread/WARN]: Spruce Boat (vehicle of ValteriIts_James) moved wrongly! 0.5386160933023802
+[21:17:57] [Server thread/INFO]: [Not Secure] <ValteriIts_James> ig 3 more
+[21:18:11] [Server thread/INFO]: [Not Secure] <xAstrii> get that golem
+[21:18:11] [Server thread/INFO]: [Not Secure] <ValteriIts_James> just these 2
+[21:19:54] [Server thread/INFO]: [Not Secure] <xAstrii> i think one of the breeding room ones got a profession bro
+[21:19:56] [Server thread/INFO]: [Not Secure] <xAstrii> bro turned red
+[21:20:00] [Server thread/INFO]: [Not Secure] <xAstrii> i mean green
+[21:20:04] [Server thread/INFO]: [Not Secure] <xAstrii> wait
+[21:20:08] [Server thread/INFO]: [Not Secure] <xAstrii> did he just become the dumb one
+[21:20:17] [Server thread/INFO]: [Not Secure] <ValteriIts_James> he was already dumb
+[21:20:20] [Server thread/INFO]: [Not Secure] <xAstrii> oh
+[21:20:23] [Server thread/INFO]: [Not Secure] <xAstrii> didnt notice
+[21:20:28] [Server thread/INFO]: [Not Secure] <xAstrii> he will be in the breeding room then
+[21:20:32] [Server thread/INFO]: [Not Secure] <xAstrii> he cant be moved
+[21:22:31] [Server thread/INFO]: [Not Secure] <ValteriIts_James> welcome the 4 new slaves
+[21:22:40] [Server thread/INFO]: [Not Secure] <xAstrii> oh shit
+[21:22:56] [Server thread/INFO]: [Not Secure] <xAstrii> that guy has to see the nether bro
+[21:23:06] [Server thread/INFO]: [Not Secure] <ValteriIts_James> ye
+[21:23:30] [Server thread/INFO]: [Not Secure] <xAstrii> bros seing the sun for the first time in his life
+[21:23:46] [Server thread/INFO]: [Not Secure] <ValteriIts_James> looka after him
+[21:23:54] [Server thread/INFO]: [Not Secure] <xAstrii> take him
+[21:24:12] [Server thread/INFO]: [Not Secure] <ValteriIts_James> help me
+[21:25:10] [Server thread/INFO]: [Not Secure] <xAstrii> xddddd
+[21:25:15] [Server thread/INFO]: [Not Secure] <xAstrii> bro was dumb enough to get trapped again
+[21:25:19] [Server thread/INFO]: [Not Secure] <ValteriIts_James> this one wants to work
+[21:25:24] [Server thread/INFO]: [Not Secure] <xAstrii> fr
+[21:25:25] [Server thread/INFO]: [Not Secure] <ValteriIts_James> 2
+[21:25:28] [Server thread/INFO]: [Not Secure] <ValteriIts_James> the baby grew
+[21:25:40] [Server thread/INFO]: [Not Secure] <ValteriIts_James> lets do this one firts
+[21:25:42] [Server thread/INFO]: [Not Secure] <xAstrii> ye
+[21:25:45] [Server thread/INFO]: [Not Secure] <xAstrii> no way
+[21:25:48] [Server thread/INFO]: [Not Secure] <xAstrii> bro tried
+[21:26:09] [Server thread/INFO]: [Not Secure] <xAstrii> that dude is a real escaped
+[21:26:10] [Server thread/INFO]: [Not Secure] <xAstrii> escaper
+[21:26:25] [Server thread/INFO]: [Not Secure] <ValteriIts_James> this one is gonna be the first on on the nether
+[21:26:36] [Server thread/INFO]: [Not Secure] <xAstrii> bros first on the list
+[21:26:54] [Server thread/INFO]: [Not Secure] <xAstrii> even if we dont have a drop we will think of something to get that dude done
+[21:27:46] [Server thread/INFO]: [Not Secure] <xAstrii> walls
+[21:27:50] [Server thread/INFO]: [Not Secure] <xAstrii> dirt walls
+[21:28:28] [Server thread/INFO]: [Not Secure] <xAstrii> ez
+[21:28:36] [Server thread/INFO]: [Not Secure] <xAstrii> that bro was hard
+[21:28:43] [Server thread/INFO]: [Not Secure] <ValteriIts_James> fisherman too?
+[21:28:47] [Server thread/INFO]: [Not Secure] <xAstrii> idk
+[21:28:57] [Server thread/INFO]: [Not Secure] <ValteriIts_James> lets expand
+[21:29:01] [Server thread/INFO]: [Not Secure] <xAstrii> tomorrow
+[21:29:06] [Server thread/INFO]: [Not Secure] <xAstrii> tomorrow
+[21:29:08] [Server thread/INFO]: [Not Secure] <ValteriIts_James> too lae
+[21:29:09] [Server thread/INFO]: [Not Secure] <xAstrii> im gonna go to sleep soon
+[21:29:17] [Server thread/INFO]: [Not Secure] <xAstrii> ok u expand then
+[21:29:19] [Server thread/INFO]: [Not Secure] <xAstrii> cuz im going to sleep
+[21:29:25] [Server thread/INFO]: [Not Secure] <xAstrii> the wood is in the chest
+[21:29:29] [Server thread/INFO]: [Not Secure] <xAstrii> make it as everytime
+[21:29:41] [Server thread/INFO]: [Not Secure] <xAstrii> remember about their floors and roofs
+[21:29:55] [Server thread/INFO]: [Not Secure] <xAstrii> ill go to sleep gn
+[21:29:56] [Server thread/INFO]: xAstrii lost connection: Disconnected
+[21:29:56] [Server thread/INFO]: xAstrii left the game
+[21:30:23] [Server thread/INFO]: ValteriIts_James lost connection: Disconnected
+[21:30:23] [Server thread/INFO]: ValteriIts_James left the game
+[21:30:30] [Server thread/INFO]: Stopping the server
+[21:30:30] [Server thread/INFO]: Stopping server
+[21:30:30] [Server thread/INFO]: Saving players
+[21:30:30] [Server thread/INFO]: Saving worlds
+[21:30:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:30:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:30:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:30:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
