@@ -1,51 +1,1012 @@
-[18:25:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:25:28] [ServerMain/INFO]: Loaded 1370 recipes
-[18:25:28] [ServerMain/INFO]: Loaded 1481 advancements
-[18:25:28] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[18:25:28] [Server thread/INFO]: Loading properties
-[18:25:28] [Server thread/INFO]: Default game type: SURVIVAL
-[18:25:28] [Server thread/INFO]: Generating keypair
-[18:25:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:25:29] [Server thread/INFO]: Using epoll channel type
-[18:25:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:25:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:25:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:25:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:25:29] [Server thread/INFO]: Preparing level "world"
-[18:25:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:25:36] [Server thread/INFO]: Time elapsed: 7162 ms
-[18:25:36] [Server thread/INFO]: Done (7.594s)! For help, type "help"
-[18:25:54] [Server thread/INFO]: xAstrii[/127.24.53.178:37321] logged in with entity id 10 at (2703.0832100965827, 67.875, -705.8316911498579)
-[18:25:54] [Server thread/INFO]: xAstrii joined the game
-[18:28:29] [Server thread/INFO]: ValteriIts_James[/127.227.2.211:58823] logged in with entity id 1127 at (2708.300000011921, 58.0, -707.3000000119209)
-[18:28:29] [Server thread/INFO]: ValteriIts_James joined the game
-[18:29:34] [Server thread/INFO]: xAstrii lost connection: Disconnected
-[18:29:34] [Server thread/INFO]: xAstrii left the game
-[18:29:34] [Server thread/INFO]: ValteriIts_James lost connection: Disconnected
-[18:29:34] [Server thread/INFO]: ValteriIts_James left the game
-[18:30:20] [Server thread/INFO]: Stopping the server
-[18:30:20] [Server thread/INFO]: Stopping server
-[18:30:20] [Server thread/INFO]: Saving players
-[18:30:20] [Server thread/INFO]: Saving worlds
-[18:30:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:30:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:30:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:30:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:30:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:30:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:30:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:40:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:40:46] [ServerMain/INFO]: Loaded 1290 recipes
+[18:40:46] [ServerMain/INFO]: Loaded 1399 advancements
+[18:40:47] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:40:47] [Server thread/INFO]: Loading properties
+[18:40:47] [Server thread/INFO]: Default game type: SURVIVAL
+[18:40:47] [Server thread/INFO]: Generating keypair
+[18:40:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:40:47] [Server thread/INFO]: Using epoll channel type
+[18:40:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:40:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:40:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:40:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:40:47] [Server thread/INFO]: Preparing level "world"
+[18:40:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:40:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:40:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:40:54] [Server thread/INFO]: Time elapsed: 614 ms
+[18:40:54] [Server thread/INFO]: Done (6.500s)! For help, type "help"
+[18:41:24] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/pale_oak_boat' in progress file ./world/advancements/73ac2733-83af-3642-a346-d3490c39dee4.json - it doesn't exist anymore?
+[18:41:24] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/tools/bundle' in progress file ./world/advancements/73ac2733-83af-3642-a346-d3490c39dee4.json - it doesn't exist anymore?
+[18:41:24] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/transportation/pale_oak_chest_boat' in progress file ./world/advancements/73ac2733-83af-3642-a346-d3490c39dee4.json - it doesn't exist anymore?
+[18:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor_toughness'
+[18:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_speed'
+[18:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[18:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:entity_interaction_range'
+[18:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:block_interaction_range'
+[18:41:24] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:oxygen_bonus'
+[18:41:24] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:bundle removed now.
+[18:41:24] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pale_oak_chest_boat removed now.
+[18:41:24] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pale_oak_boat removed now.
+[18:41:24] [Server thread/INFO]: ValteriIts_James[/127.227.2.211:37403] logged in with entity id 12 at (2707.6511420475526, 59.0, -706.9035963169332)
+[18:41:24] [Server thread/INFO]: ValteriIts_James joined the game
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:53] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:54] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:55] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor_toughness'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:knockback_resistance'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor_toughness'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:knockback_resistance'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:spawn_reinforcements'
+[18:41:56] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/ranged/poison_skeleton/normal"
+[18:41:56] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/breeze/normal"
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:56] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/ranged/skeleton/normal"
+[18:41:57] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/breeze/normal"
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:57] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:58] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:knockback_resistance'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:spawn_reinforcements'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:41:59] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:06] [Server thread/INFO]: xAstrii[/127.24.53.178:52539] logged in with entity id 829 at (2702.0640620227387, 68.0, -706.104721333268)
+[18:42:06] [Server thread/INFO]: xAstrii joined the game
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:06] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:42:07] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:42:20] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:42:30] [Server thread/INFO]: [Not Secure] <ValteriIts_James> fullbright aint working with optifine
+[18:43:25] [Server thread/INFO]: [Not Secure] <xAstrii> im back
+[18:43:31] [Server thread/INFO]: [Not Secure] <xAstrii> alr so
+[18:43:34] [Server thread/INFO]: [Not Secure] <xAstrii> is the string duper done
+[18:43:42] [Server thread/INFO]: [Not Secure] <ValteriIts_James> yes
+[18:43:44] [Server thread/INFO]: [Not Secure] <xAstrii> ill make some scaffoldings
+[18:43:54] [Server thread/INFO]: [Not Secure] <xAstrii> uhh
+[18:43:55] [Server thread/INFO]: [Not Secure] <ValteriIts_James> breeding room
+[18:43:58] [Server thread/INFO]: [Not Secure] <xAstrii> we need to make this room symetrical
+[18:44:16] [Server thread/INFO]: [Not Secure] <ValteriIts_James> nigga dont destroy my bamboo wallas
+[18:44:50] [Server thread/INFO]: [Not Secure] <xAstrii> uhh
+[18:44:51] [Server thread/INFO]: [Not Secure] <xAstrii> i will
+[18:45:12] [Server thread/INFO]: [Not Secure] <ValteriIts_James> aight bro
+[18:45:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:45:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:45:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:45:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[18:45:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[18:45:17] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[18:45:27] [Server thread/INFO]: [Not Secure] <ValteriIts_James> wait a second
+[18:45:28] [Server thread/INFO]: [Not Secure] <ValteriIts_James> pls
+[18:45:52] [Server thread/INFO]: [Not Secure] <xAstrii> what
+[18:45:55] [Server thread/INFO]: [Not Secure] <xAstrii> too late
+[18:46:14] [Server thread/INFO]: [Not Secure] <xAstrii> walls will be wood
+[18:46:38] [Server thread/INFO]: [Not Secure] <ValteriIts_James> check bordr
+[18:47:31] [Server thread/INFO]: [Not Secure] <ValteriIts_James> u can spam click on one
+[18:47:35] [Server thread/INFO]: [Not Secure] <ValteriIts_James> and it will build up
+[18:47:40] [Server thread/INFO]: [Not Secure] <xAstrii> ye ik
+[18:47:53] [Server thread/INFO]: [Not Secure] <xAstrii> uhhh
+[18:47:58] [Server thread/INFO]: [Not Secure] <xAstrii> i knew i should have built this
+[18:48:00] [Server thread/INFO]: [Not Secure] <xAstrii> this looks erm
+[18:48:34] [Server thread/INFO]: [Not Secure] <xAstrii> how about u destroy everything from here (get the crafting, furnace out and destroy the ceiling and floor) and i build this
+[18:48:44] [Server thread/INFO]: [Not Secure] <xAstrii> ill make wooden walls, stone brick floor and ceiling
+[18:48:44] [Server thread/INFO]: [Not Secure] <ValteriIts_James> build what
+[18:48:49] [Server thread/INFO]: [Not Secure] <ValteriIts_James> alr
+[18:48:49] [Server thread/INFO]: [Not Secure] <xAstrii> this base
+[18:49:02] [Server thread/INFO]: [Not Secure] <ValteriIts_James> put the scaffolding
+[18:49:34] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i would be quicker with water
+[18:50:16] [Server thread/INFO]: [Not Secure] <xAstrii> destroy everything inside the base
+[18:50:32] [Server thread/INFO]: [Not Secure] <xAstrii> and get me lots of stone bricks
+[18:50:41] [Server thread/INFO]: [Not Secure] <ValteriIts_James> start the duper
+[18:51:03] [Server thread/INFO]: [Not Secure] <xAstrii> btw you gotta get me lots of stone bricks
+[18:51:28] [Server thread/INFO]: [Not Secure] <ValteriIts_James> lets make a smelting room
+[18:52:15] [Server thread/INFO]: [Not Secure] <xAstrii> wat
+[18:52:23] [Server thread/INFO]: [Not Secure] <ValteriIts_James> ful of furnaces
+[18:52:25] [Server thread/INFO]: [Not Secure] <xAstrii> oh
+[18:52:35] [Server thread/INFO]: [Not Secure] <xAstrii> we will get a few furnaces inside the storage room
+[18:52:42] [Server thread/INFO]: [Not Secure] <ValteriIts_James> alr
+[18:52:46] [Server thread/INFO]: [Not Secure] <xAstrii> destroy me all the andesite there
+[18:52:47] [Server thread/INFO]: [Not Secure] <xAstrii> and the roof
+[18:52:53] [Server thread/INFO]: [Not Secure] <xAstrii> and fill the water
+[18:54:47] [Server thread/INFO]: [Not Secure] <ValteriIts_James> wait bro
+[18:54:52] [Server thread/INFO]: [Not Secure] <xAstrii> what
+[18:54:54] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i already dug the roof
+[18:54:56] [Server thread/INFO]: [Not Secure] <ValteriIts_James> and the floor
+[18:55:02] [Server thread/INFO]: [Not Secure] <ValteriIts_James> floor and roof its just placing
+[18:55:19] [Server thread/INFO]: [Not Secure] <ValteriIts_James> u place i make the brickes
+[18:56:59] [Server thread/INFO]: [Not Secure] <ValteriIts_James> wait bro
+[18:57:03] [Server thread/INFO]: [Not Secure] <ValteriIts_James> make it higher
+[18:57:05] [Server thread/INFO]: [Not Secure] <xAstrii> no
+[18:57:06] [Server thread/INFO]: [Not Secure] <xAstrii> why
+[18:57:07] [Server thread/INFO]: [Not Secure] <ValteriIts_James> its too low
+[18:57:20] [Server thread/INFO]: [Not Secure] <ValteriIts_James> it looks very small
+[18:57:41] [Server thread/INFO]: [Not Secure] <ValteriIts_James> gimme cobble
+[18:57:50] [Server thread/INFO]: [Not Secure] <ValteriIts_James> only that
+[18:57:55] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we gotta dig more rooms
+[18:58:59] [Server thread/INFO]: [Not Secure] <ValteriIts_James> wait
+[18:59:02] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we are retarded
+[18:59:04] [Server thread/INFO]: [Not Secure] <ValteriIts_James> use slabs
+[18:59:12] [Server thread/INFO]: [Not Secure] <ValteriIts_James> for the ground
+[18:59:13] [Server thread/INFO]: [Not Secure] <xAstrii> bruh
+[18:59:17] [Server thread/INFO]: [Not Secure] <xAstrii> mine it all
+[18:59:30] [Server thread/INFO]: [Not Secure] <ValteriIts_James> not worth it now
+[18:59:44] [Server thread/INFO]: [Not Secure] <xAstrii> wait
+[18:59:44] [Server thread/INFO]: [Not Secure] <xAstrii> wait
+[18:59:49] [Server thread/INFO]: [Not Secure] <xAstrii> dont build anything there yet
+[18:59:56] [Server thread/INFO]: [Not Secure] <ValteriIts_James> why
+[19:00:01] [Server thread/INFO]: [Not Secure] <xAstrii> wait a sec
+[19:00:04] [Server thread/INFO]: [Not Secure] <ValteriIts_James> the villagers are that way
+[19:00:09] [Server thread/INFO]: [Not Secure] <xAstrii> i know
+[19:00:10] [Server thread/INFO]: [Not Secure] <xAstrii> sec
+[19:01:34] [Server thread/INFO]: [Not Secure] <xAstrii> craft me an axe
+[19:01:49] [Server thread/INFO]: [Not Secure] <ValteriIts_James> what is bro doing
+[19:01:55] [Server thread/INFO]: [Not Secure] <xAstrii> trying to get some ideas xd
+[19:02:11] [Server thread/INFO]: [Not Secure] <xAstrii> pickaxe too
+[19:02:22] [Server thread/INFO]: [Not Secure] <xAstrii> ru retarded
+[19:02:31] [Server thread/INFO]: [Not Secure] <ValteriIts_James> maybe
+[19:02:35] [Server thread/INFO]: [Not Secure] <ValteriIts_James> no
+[19:02:36] [Server thread/INFO]: [Not Secure] <xAstrii> xddddd
+[19:02:37] [Server thread/INFO]: [Not Secure] <xAstrii> yes
+[19:02:40] [Server thread/INFO]: [Not Secure] <xAstrii> that gap sucks ass
+[19:02:45] [Server thread/INFO]: [Not Secure] <ValteriIts_James> so we get more space
+[19:02:48] [Server thread/INFO]: [Not Secure] <ValteriIts_James> it looks good
+[19:03:03] [Server thread/INFO]: [Not Secure] <ValteriIts_James> arlt
+[19:03:09] [Server thread/INFO]: [Not Secure] <xAstrii> craft me a pickaxe
+[19:03:12] [Server thread/INFO]: [Not Secure] <ValteriIts_James> but wood is more expensive
+[19:03:34] [Server thread/INFO]: [Not Secure] <xAstrii> thx
+[19:04:29] [Server thread/INFO]: [Not Secure] <ValteriIts_James> ill pick up more wood
+[19:04:31] [Server thread/INFO]: [Not Secure] <xAstrii> ye
+[19:05:02] [Server thread/INFO]: [Not Secure] <ValteriIts_James> actually
+[19:05:07] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we might need phantoms
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:05:12] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:15] [Server thread/INFO]: [Not Secure] <xAstrii> lets replace the string duper
+[19:06:27] [Server thread/INFO]: [Not Secure] <ValteriIts_James> why
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_knockback'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor_toughness'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:knockback_resistance'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:06:34] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:06:36] [Server thread/INFO]: [Not Secure] <xAstrii> found a better place
+[19:06:41] [Server thread/INFO]: [Not Secure] <ValteriIts_James> well
+[19:06:47] [Server thread/INFO]: [Not Secure] <ValteriIts_James> its not easy moving it
+[19:07:00] [Server thread/INFO]: [Not Secure] <xAstrii> youll do it
+[19:07:02] [Server thread/INFO]: [Not Secure] <xAstrii> i believe in u
+[19:07:02] [Server thread/INFO]: [Not Secure] <xAstrii> xd
+[19:07:06] [Server thread/INFO]: [Not Secure] <ValteriIts_James> nuh uh
+[19:07:10] [Server thread/INFO]: [Not Secure] <ValteriIts_James> its good where it is
+[19:07:18] [Server thread/INFO]: [Not Secure] <xAstrii> no
+[19:08:20] [Server thread/INFO]: [Not Secure] <xAstrii> bro
+[19:08:21] [Server thread/INFO]: [Not Secure] <xAstrii> what did u do
+[19:08:24] [Server thread/INFO]: [Not Secure] <xAstrii> i heard that
+[19:08:24] [Server thread/INFO]: [Not Secure] <xAstrii> lmao
+[19:08:26] [Server thread/INFO]: [Not Secure] <ValteriIts_James> well
+[19:08:34] [Server thread/INFO]: [Not Secure] <ValteriIts_James> the question isnt what i did
+[19:08:38] [Server thread/INFO]: [Not Secure] <xAstrii> creeper
+[19:08:38] [Server thread/INFO]: [Not Secure] <ValteriIts_James> but what the creeper did
+[19:08:42] [Server thread/INFO]: [Not Secure] <xAstrii> what did this shit do
+[19:08:46] [Server thread/INFO]: [Not Secure] <ValteriIts_James> u got dirt
+[19:08:59] [Server thread/INFO]: [Not Secure] <xAstrii> ye
+[19:09:07] [Server thread/INFO]: [Not Secure] <ValteriIts_James> come to the tree farm
+[19:10:43] [Server thread/INFO]: [Not Secure] <xAstrii> u will move the string duper ok
+[19:11:10] [Server thread/INFO]: [Not Secure] <ValteriIts_James> id rather listen to apt
+[19:11:14] [Server thread/INFO]: [Not Secure] <xAstrii> HELL NAH
+[19:11:23] [Server thread/INFO]: [Not Secure] <ValteriIts_James> apt apt apt
+[19:11:27] [Server thread/INFO]: [Not Secure] <xAstrii> die
+[19:11:41] [Server thread/INFO]: [Not Secure] <xAstrii> we need to move it
+[19:11:44] [Server thread/INFO]: [Not Secure] <xAstrii> its in a shit place
+[19:11:52] [Server thread/INFO]: [Not Secure] <xAstrii> i have a plan literally
+[19:14:28] [Server thread/INFO]: [Not Secure] <ValteriIts_James> see
+[19:14:32] [Server thread/INFO]: [Not Secure] <ValteriIts_James> no problem
+[19:14:34] [Server thread/INFO]: [Not Secure] <xAstrii> string duper here
+[19:14:42] [Server thread/INFO]: [Not Secure] <xAstrii> get back to work nigga
+[19:14:47] [Server thread/INFO]: [Not Secure] <ValteriIts_James> bro
+[19:14:48] [Server thread/INFO]: [Not Secure] <xAstrii> and here tunnel of villagers
+[19:14:56] [Server thread/INFO]: [Not Secure] <ValteriIts_James> just change your plan a bit
+[19:14:59] [Server thread/INFO]: [Not Secure] <xAstrii> no
+[19:15:04] [Server thread/INFO]: [Not Secure] <ValteriIts_James> do u need to make smth there
+[19:15:05] [Server thread/INFO]: [Not Secure] <xAstrii> it sucked with the duper on this place
+[19:15:12] [Server thread/INFO]: [Not Secure] <xAstrii> its just too much space
+[19:15:16] [Server thread/INFO]: [Not Secure] <ValteriIts_James> what do u want to do there
+[19:15:21] [Server thread/INFO]: [Not Secure] <xAstrii> here string duper
+[19:15:39] [Server thread/INFO]: [Not Secure] <ValteriIts_James> what do u want to do on the string dupers place
+[19:15:45] [Server thread/INFO]: [Not Secure] <xAstrii> wall
+[19:15:48] [Server thread/INFO]: [Not Secure] <xAstrii> cuz it looks way better
+[19:16:05] [Server thread/INFO]: [Not Secure] <ValteriIts_James> see
+[19:16:09] [Server thread/INFO]: [Not Secure] <xAstrii> what
+[19:16:12] [Server thread/INFO]: [Not Secure] <ValteriIts_James> its good
+[19:16:16] [Server thread/INFO]: [Not Secure] <xAstrii> no
+[19:16:20] [Server thread/INFO]: [Not Secure] <xAstrii> string duper here
+[19:16:20] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we can make a room that way
+[19:16:29] [Server thread/INFO]: [Not Secure] <ValteriIts_James> and down
+[19:16:31] [Server thread/INFO]: [Not Secure] <xAstrii> here hallf of slaves
+[19:16:49] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we can put the beds here
+[19:16:49] [Server thread/INFO]: [Not Secure] <xAstrii> we can always just make the 2nd floor
+[19:17:06] [Server thread/INFO]: [Not Secure] <xAstrii> why cant u replace the string duper
+[19:17:07] [Server thread/INFO]: [Not Secure] <xAstrii> dubmass
+[19:17:11] [Server thread/INFO]: [Not Secure] <ValteriIts_James> too much work
+[19:17:18] [Server thread/INFO]: [Not Secure] <xAstrii> no
+[19:17:21] [Server thread/INFO]: [Not Secure] <xAstrii> u made it in 5 minutes
+[19:17:23] [Server thread/INFO]: [Not Secure] <xAstrii> cmon
+[19:17:24] [Server thread/INFO]: [Not Secure] <ValteriIts_James> and boring
+[19:17:26] [Server thread/INFO]: [Not Secure] <xAstrii> here string duper
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:18:43] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/ranged/skeleton/normal"
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:18:43] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/breeze/normal"
+[19:18:43] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/melee/zombie/normal"
+[19:18:43] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/melee/zombie/normal"
+[19:18:43] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/small_melee/cave_spider/normal"
+[19:18:43] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/small_melee/cave_spider/normal"
+[19:18:43] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/ranged/skeleton/normal"
+[19:18:43] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/melee/zombie/normal"
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[19:18:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[19:20:16] [Server thread/INFO]: [Not Secure] <xAstrii> you will make the string duper here
+[19:20:49] [Server thread/INFO]: [Not Secure] <ValteriIts_James> lets finish the important things first
+[19:20:55] [Server thread/INFO]: [Not Secure] <ValteriIts_James> breeding room
+[19:21:00] [Server thread/INFO]: [Not Secure] <ValteriIts_James> and first fishermen
+[19:21:04] [Server thread/INFO]: [Not Secure] <xAstrii> ill be doing the breeding room
+[19:21:08] [Server thread/INFO]: [Not Secure] <xAstrii> while you will be doing the string duper
+[19:21:41] [Server thread/INFO]: [Not Secure] <ValteriIts_James> and we need to go mine
+[19:21:47] [Server thread/INFO]: [Not Secure] <xAstrii> what for
+[19:21:53] [Server thread/INFO]: [Not Secure] <xAstrii> put coal into the furnaces
+[19:21:54] [Server thread/INFO]: [Not Secure] <xAstrii> so we get stone
+[19:23:17] [Server thread/INFO]: [Not Secure] <ValteriIts_James> youre doing slabs right
+[19:23:23] [Server thread/INFO]: [Not Secure] <xAstrii> uhhh
+[19:23:29] [Server thread/INFO]: [Not Secure] <xAstrii> yea
+[19:23:35] [Server thread/INFO]: [Not Secure] <ValteriIts_James> retard
+[19:23:40] [Server thread/INFO]: [Not Secure] <ValteriIts_James> work now
+[19:23:57] [Server thread/INFO]: [Not Secure] <ValteriIts_James> well
+[19:24:07] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we all make mistakes isnt that right
+[19:24:18] [Server thread/INFO]: [Not Secure] <ValteriIts_James> wrong recipe oopsie
+[19:24:22] [Server thread/INFO]: [Not Secure] <xAstrii> wtf
+[19:24:26] [Server thread/INFO]: [Not Secure] <ValteriIts_James> btw
+[19:24:27] [Server thread/INFO]: [Not Secure] <xAstrii> omd
+[19:24:33] [Server thread/INFO]: [Not Secure] <ValteriIts_James> thats 43 brick blocks
+[19:24:39] [Server thread/INFO]: [Not Secure] <ValteriIts_James> alr
+[19:25:15] [Server thread/INFO]: [Not Secure] <ValteriIts_James> wait
+[19:25:36] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we can use those walls to make replace the banboo
+[19:25:44] [Server thread/INFO]: [Not Secure] <xAstrii> oh ye
+[19:25:52] [Server thread/INFO]: [Not Secure] <ValteriIts_James> gimme them
+[19:25:56] [Server thread/INFO]: [Not Secure] <xAstrii> bro finally used his brain
+[19:26:02] [Server thread/INFO]: [Not Secure] <xAstrii> give the slabs
+[19:30:23] [Server thread/INFO]: [Not Secure] <ValteriIts_James> wegot a lot of bamboo
+[19:30:36] [Server thread/INFO]: [Not Secure] <ValteriIts_James> what do we do with it
+[19:30:46] [Server thread/INFO]: [Not Secure] <xAstrii> uh
+[19:30:48] [Server thread/INFO]: [Not Secure] <xAstrii> no idea yet
+[19:30:56] [Server thread/INFO]: [Not Secure] <xAstrii> you will make the string duper here
+[19:31:29] [Server thread/INFO]: ValteriIts_James lost connection: Timed out
+[19:31:29] [Server thread/INFO]: ValteriIts_James left the game
+[19:31:29] [Server thread/WARN]: handleDisconnection() called twice
+[19:31:55] [Server thread/INFO]: ValteriIts_James[/127.227.2.211:52827] logged in with entity id 17960 at (2709.5222579836764, 58.40640860773298, -707.5393974350554)
+[19:31:55] [Server thread/INFO]: ValteriIts_James joined the game
+[19:32:02] [Server thread/INFO]: [Not Secure] <ValteriIts_James> this crashed my wifi ig
+[19:32:18] [Server thread/INFO]: [Not Secure] <xAstrii> xdd
+[19:32:54] [Server thread/INFO]: [Not Secure] <xAstrii> oh my days
+[19:33:25] [Server thread/INFO]: [Not Secure] <ValteriIts_James> thats not even 25% of the wall
+[19:34:54] [Server thread/INFO]: [Not Secure] <ValteriIts_James> wait
+[19:34:59] [Server thread/INFO]: [Not Secure] <xAstrii> oh
+[19:38:10] [Server thread/INFO]: [Not Secure] <xAstrii> i gotta locate the boat entrance somehow
+[19:38:46] [Server thread/INFO]: [Not Secure] <ValteriIts_James> nigga
+[19:38:48] [Server thread/INFO]: [Not Secure] <ValteriIts_James> look up
+[19:38:54] [Server thread/INFO]: [Not Secure] <xAstrii> huh
+[19:38:57] [Server thread/INFO]: [Not Secure] <xAstrii> they are there???
+[19:39:03] [Server thread/INFO]: [Not Secure] <xAstrii> oh
+[19:39:16] [Server thread/INFO]: [Not Secure] <xAstrii> no wait
+[19:39:16] [Server thread/INFO]: [Not Secure] <ValteriIts_James> water
+[19:39:20] [Server thread/INFO]: [Not Secure] <xAstrii> ill build the breeding room first
+[19:39:34] [Server thread/INFO]: [Not Secure] <xAstrii> how do we block them from escaping out of it this time
+[19:39:49] [Server thread/INFO]: [Not Secure] <ValteriIts_James> slabs
+[19:39:54] [Server thread/INFO]: [Not Secure] <ValteriIts_James> with the hole
+[19:39:54] [Server thread/INFO]: [Not Secure] <xAstrii> what about kids
+[19:39:59] [Server thread/INFO]: [Not Secure] <xAstrii> oh ok
+[19:40:02] [Server thread/INFO]: [Not Secure] <ValteriIts_James> holewith trapdoors
+[19:40:12] [Server thread/INFO]: [Not Secure] <xAstrii> ye
+[19:41:01] [Server thread/INFO]: [Not Secure] <ValteriIts_James> send slabs
+[19:41:23] [Server thread/INFO]: [Not Secure] <ValteriIts_James> make trapdoors
+[19:41:26] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i dont have wood
+[19:43:04] [Server thread/INFO]: [Not Secure] <xAstrii> bring beds
+[19:43:11] [Server thread/INFO]: [Not Secure] <xAstrii> we can fit like 8 beds
+[19:43:54] [Server thread/INFO]: [Not Secure] <ValteriIts_James> dont go up
+[19:44:03] [Server thread/INFO]: [Not Secure] <ValteriIts_James> wait
+[19:44:15] [Server thread/INFO]: [Not Secure] <ValteriIts_James> oh alr
+[19:45:01] [Server thread/INFO]: [Not Secure] <ValteriIts_James> noo
+[19:45:03] [Server thread/INFO]: [Not Secure] <ValteriIts_James> make more
+[19:45:07] [Server thread/INFO]: [Not Secure] <xAstrii> what
+[19:45:14] [Server thread/INFO]: [Not Secure] <ValteriIts_James> more space for beds
+[19:45:20] [Server thread/INFO]: [Not Secure] <xAstrii> huh
+[19:45:21] [Server thread/INFO]: [Not Secure] <xAstrii> why
+[19:45:30] [Server thread/INFO]: [Not Secure] <ValteriIts_James> more slaves
+[19:45:34] [Server thread/INFO]: [Not Secure] <ValteriIts_James> bring lamps
+[19:45:37] [Server thread/INFO]: [Not Secure] <ValteriIts_James> and put one there
+[19:45:39] [Server thread/INFO]: [Not Secure] <xAstrii> ok sec
+[19:46:40] [Server thread/INFO]: [Not Secure] <xAstrii> xddd
+[19:46:44] [Server thread/INFO]: [Not Secure] <xAstrii> bro felt for his own trap
+[19:46:48] [Server thread/INFO]: [Not Secure] <ValteriIts_James> shush
+[19:46:52] [Server thread/INFO]: [Not Secure] <xAstrii> so one more row of beds?
+[19:46:56] [Server thread/INFO]: [Not Secure] <ValteriIts_James> no need rn
+[19:46:57] [Server thread/INFO]: [Not Secure] <xAstrii> there would be 10 beds then
+[19:46:59] [Server thread/INFO]: [Not Secure] <xAstrii> ok
+[19:47:07] [Server thread/INFO]: [Not Secure] <ValteriIts_James> lets send them
+[19:47:13] [Server thread/INFO]: [Not Secure] <xAstrii> so i guess we can transport
+[19:47:38] [Server thread/INFO]: [Not Secure] <xAstrii> its the night
+[19:47:42] [Server thread/INFO]: [Not Secure] <ValteriIts_James> yes
+[19:48:31] [Server thread/INFO]: [Not Secure] <xAstrii> HALF HP
+[19:48:40] [Server thread/INFO]: [Not Secure] <ValteriIts_James> so smart
+[19:49:13] [Server thread/INFO]: [Not Secure] <ValteriIts_James> remove the water
+[19:49:22] [Server thread/INFO]: [Not Secure] <ValteriIts_James> ii already have water
+[19:49:38] [Server thread/INFO]: [Not Secure] <ValteriIts_James> u stole m water
+[19:51:49] [Server thread/INFO]: [Not Secure] <xAstrii> bro
+[19:51:54] [Server thread/INFO]: [Not Secure] <xAstrii> u miscalculated the boat entrance xd
+[19:52:23] [Server thread/INFO]: [Not Secure] <ValteriIts_James> its good
+[19:52:26] [Server thread/INFO]: [Not Secure] <xAstrii> no
+[19:53:01] [Server thread/INFO]: [Not Secure] <xAstrii> we gotta change the entrance by one block then
+[19:53:07] [Server thread/INFO]: [Not Secure] <xAstrii> so we dont do shit with the breeding room
+[19:53:30] [Server thread/INFO]: [Not Secure] <ValteriIts_James> brb
+[19:57:35] [Server thread/INFO]: [Not Secure] <ValteriIts_James> im back
+[19:57:49] [Server thread/INFO]: [Not Secure] <ValteriIts_James> my sister was spying on me
+[19:57:52] [Server thread/INFO]: [Not Secure] <xAstrii> lol what
+[19:57:54] [Server thread/INFO]: [Not Secure] <ValteriIts_James> and now wants to play mc too
+[19:57:58] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i was helping her
+[19:58:26] [Server thread/INFO]: [Not Secure] <ValteriIts_James> see bro its alright
+[19:58:32] [Server thread/INFO]: [Not Secure] <xAstrii> cuz i changed the place
+[19:58:33] [Server thread/INFO]: [Not Secure] <xAstrii> dumbass
+[19:58:54] [Server thread/INFO]: [Not Secure] <ValteriIts_James> lets do the farms
+[19:58:57] [Server thread/INFO]: [Not Secure] <xAstrii> breed em
+[20:00:14] [Server thread/INFO]: [Not Secure] <ValteriIts_James> come here
+[20:00:34] [Server thread/INFO]: [Not Secure] <ValteriIts_James> breeding
+[20:00:46] [Server thread/INFO]: [Not Secure] <xAstrii> ayo
+[20:01:09] [Server thread/INFO]: [Not Secure] <ValteriIts_James> we gotta go mine
+[20:01:47] [Server thread/INFO]: [Not Secure] <xAstrii> soo
+[20:01:49] [Server thread/INFO]: [Not Secure] <xAstrii> breeding room done
+[20:01:56] [Server thread/INFO]: [Not Secure] <xAstrii> string duper working?
+[20:01:59] [Server thread/INFO]: [Not Secure] <ValteriIts_James> lets go mining
+[20:03:22] [Server thread/INFO]: [Not Secure] <ValteriIts_James> take food
+[20:04:30] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/ranged/skeleton/normal"
+[20:04:30] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/ranged/skeleton/normal"
+[20:04:30] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/breeze/normal"
+[20:04:30] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/small_melee/cave_spider/normal"
+[20:04:30] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/ranged/skeleton/normal"
+[20:04:30] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/breeze/normal"
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:30] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:32] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:33] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/small_melee/baby_zombie/normal"
+[20:04:33] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/small_melee/baby_zombie/normal"
+[20:04:37] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/melee/zombie/normal"
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/slow_ranged/skeleton/normal"
+[20:04:37] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/slow_ranged/skeleton/normal"
+[20:04:37] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/slow_ranged/skeleton/normal"
+[20:04:37] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/slow_ranged/skeleton/normal"
+[20:04:37] [Server thread/ERROR]: Not a map: "minecraft:trial_chamber/ranged/skeleton/normal"
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:04:37] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:16] [Server thread/INFO]: [Not Secure] <ValteriIts_James> leave the factory
+[20:06:18] [Server thread/INFO]: [Not Secure] <ValteriIts_James> for now
+[20:06:26] [Server thread/INFO]: [Not Secure] <xAstrii> sec imma do some signs rq
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:33] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:38] [Server thread/INFO]: [Not Secure] <xAstrii> alr
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:39] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:40] [Server thread/INFO]: [Not Secure] <xAstrii> what do we do now
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_knockback'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor_toughness'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:knockback_resistance'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_knockback'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor_toughness'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:knockback_resistance'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_knockback'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor_toughness'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:knockback_resistance'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_knockback'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor_toughness'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:knockback_resistance'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_knockback'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:max_health'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor_toughness'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:armor'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:knockback_resistance'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:06:43] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:06:44] [Server thread/INFO]: [Not Secure] <ValteriIts_James> mining
+[20:06:46] [Server thread/INFO]: [Not Secure] <xAstrii> we gotta build our house somewhere
+[20:06:51] [Server thread/INFO]: [Not Secure] <xAstrii> ok we can go mining
+[20:06:55] [Server thread/INFO]: [Not Secure] <xAstrii> u got an iron pickaxe?
+[20:07:02] [Server thread/INFO]: [Not Secure] <ValteriIts_James> no make one
+[20:07:07] [Server thread/INFO]: [Not Secure] <ValteriIts_James> or we make one ther
+[20:07:11] [Server thread/INFO]: [Not Secure] <ValteriIts_James> i got the iron
+[20:07:21] [Server thread/INFO]: [Not Secure] <xAstrii> wait
+[20:07:23] [Server thread/INFO]: [Not Secure] <xAstrii> i gotta take a bath
+[20:07:48] [Server thread/INFO]: ValteriIts_James has made the advancement [Isn't It Iron Pick]
+[20:08:38] [Server thread/INFO]: [Not Secure] <xAstrii> alr
+[20:08:41] [Server thread/INFO]: [Not Secure] <xAstrii> imma take a bath rq
+[20:08:45] [Server thread/INFO]: [Not Secure] <xAstrii> here u have wood etc
+[20:08:48] [Server thread/INFO]: xAstrii lost connection: Disconnected
+[20:08:48] [Server thread/INFO]: xAstrii left the game
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:attack_damage'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:10:22] [Server thread/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:28:39] [Server thread/INFO]: ValteriIts_James has made the advancement [Not Today, Thank You]
+[20:29:00] [Server thread/INFO]: ValteriIts_James was blown up by Creeper
+[20:34:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2691, y=67, z=-695} jd{x=2692, y=65, z=-694}
+[20:34:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2691, y=67, z=-695} jd{x=2692, y=65, z=-694}
+[20:34:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2691, y=67, z=-695} jd{x=2692, y=65, z=-694}
+[20:35:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2701, y=67, z=-689} jd{x=2703, y=66, z=-687}
+[20:35:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2701, y=67, z=-689} jd{x=2703, y=66, z=-687}
+[20:38:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2708, y=66, z=-689} jd{x=2708, y=65, z=-688}
+[20:38:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2706, y=68, z=-689} jd{x=2708, y=65, z=-688}
+[20:43:48] [Server thread/INFO]: ValteriIts_James lost connection: Disconnected
+[20:43:48] [Server thread/INFO]: ValteriIts_James left the game
+[20:44:05] [Server thread/INFO]: Stopping the server
+[20:44:05] [Server thread/INFO]: Stopping server
+[20:44:05] [Server thread/INFO]: Saving players
+[20:44:05] [Server thread/INFO]: Saving worlds
+[20:44:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:44:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:44:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:44:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:44:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:44:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:44:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
