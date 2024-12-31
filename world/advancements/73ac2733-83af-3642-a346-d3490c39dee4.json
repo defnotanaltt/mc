@@ -7,6 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2024-12-31 12:43:59 +0000",
+      "minecraft:beach": "2024-12-31 12:43:27 +0000",
       "minecraft:forest": "2024-12-27 14:22:24 +0000",
       "minecraft:sparse_jungle": "2024-12-27 14:42:09 +0000",
       "minecraft:river": "2024-12-27 14:30:30 +0000",
@@ -387,10 +389,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-27 14:35:52 +0000",
+      "apple": "2024-12-31 15:24:06 +0000",
       "bread": "2024-12-27 15:00:15 +0000",
       "cooked_chicken": "2024-12-27 15:10:41 +0000",
       "rotten_flesh": "2024-12-28 08:38:49 +0000",
       "cooked_mutton": "2024-12-28 08:44:06 +0000",
+      "potato": "2024-12-31 15:48:59 +0000",
       "cooked_cod": "2024-12-28 12:22:30 +0000",
       "melon_slice": "2024-12-27 20:04:48 +0000"
     },
@@ -447,9 +451,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-27 16:36:53 +0000",
+      "minecraft:phantom": "2024-12-31 14:20:47 +0000",
       "minecraft:stray": "2024-12-27 20:28:39 +0000",
       "minecraft:spider": "2024-12-27 15:06:30 +0000",
-      "minecraft:zombie": "2024-12-27 14:37:58 +0000"
+      "minecraft:zombie": "2024-12-27 14:37:58 +0000",
+      "minecraft:drowned": "2024-12-31 14:35:33 +0000"
     },
     "done": false
   },
@@ -2199,5 +2205,83 @@
     },
     "done": true
   },
-  "DataVersion": 3955
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-31 12:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-31 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-31 12:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-31 12:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-31 12:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-31 12:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-31 12:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-31 12:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-31 12:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-31 12:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-31 12:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2024-12-31 13:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-31 13:04:12 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
 }
